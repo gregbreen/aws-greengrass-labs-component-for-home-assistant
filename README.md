@@ -233,7 +233,7 @@ Example of steps 5, 6, 7 and 9:
 python3 create_config_secret.py
 gdk component build
 gdk component publish
-python3 deploy_component_version.py 1.1.0 MyCoreDeviceThingName
+python3 deploy_component_version.py 1.2.0 MyCoreDeviceThingName
 ```
 
 This example:
